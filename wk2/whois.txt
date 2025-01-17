@@ -1,0 +1,834 @@
+1
+
+georgebrown.ca
+Updated 1 day ago
+Domain Information
+Domain:
+georgebrown.ca
+Registrar:
+Webnames.ca Inc.
+Registered On:
+2002-07-04
+Expires On:
+2025-07-04
+Updated On:
+2024-10-18
+Status:
+clientTransferProhibited
+Name Servers:
+ns1.d-zone.ca
+ns1.georgebrown.ca
+ns2.d-zone.ca
+ns2.georgebrown.ca
+Registrant Contact
+Name:
+Omid Fekri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Administrative Contact
+Name:
+Omid Fekri
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Technical Contact
+Name:
+Dorin Grunberg
+Organization:
+George Brown College
+Street:
+P.O. Box 1015 Station B
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5T2T9
+Country:
+CA
+Phone:
++1.4164155000
+Email:
+email@georgebrown.ca
+Raw Whois Data
+Domain Name: georgebrown.ca
+Registry Domain ID: D121739-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.webnames.ca
+Updated Date: 2024-10-18T15:03:53Z
+Creation Date: 2002-07-04T08:35:23Z
+Registry Expiry Date: 2025-07-04T04:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: email@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: R21312-CIRA
+Registrant Name: Omid Fekri
+Registrant Organization: George Brown College
+Registrant Street: P.O. Box 1015 Station B
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5T2T9
+Registrant Country: CA
+Registrant Phone: +1.4164155000
+Registrant Phone Ext: 5012
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@georgebrown.ca
+Registry Admin ID: C883431-CIRA
+Admin Name: Omid Fekri
+Admin Organization: George Brown College
+Admin Street: P.O. Box 1015 Station B
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5T2T9
+Admin Country: CA
+Admin Phone: +1.4164155000
+Admin Phone Ext: 5012
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@georgebrown.ca
+Registry Tech ID: C883432-CIRA
+Tech Name: Dorin Grunberg
+Tech Organization: George Brown College
+Tech Street: P.O. Box 1015 Station B
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5T2T9
+Tech Country: CA
+Tech Phone: +1.4164155000
+Tech Phone Ext: 4935
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@georgebrown.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns1.georgebrown.ca
+Name Server: ns2.d-zone.ca
+Name Server: ns2.georgebrown.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-01-13T20:25:15Z <<<
+
+
+
+
+################################################################################
+################################################################################
+
+2
+
+despegar.com
+Updated 1 second ago
+Domain Information
+Domain:
+despegar.com
+Registrar:
+Key-Systems GmbH
+Registered On:
+1999-11-12
+Expires On:
+2029-11-12
+Updated On:
+2024-03-29
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+Name Servers:
+dns1.despegar.net
+dns2.despegar.net
+dns3.despegar.net
+dns4.despegar.net
+Registrant Contact
+State:
+MO
+Country:
+UY
+Email:
+email@domain-contact.org
+Administrative Contact
+Email:
+email@domain-contact.org
+Technical Contact
+Email:
+email@domain-contact.org
+Billing Contact
+Email:
+email@domain-contact.org
+Raw Whois Data
+Domain Name: despegar.com
+Registry Domain ID: 12821116_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: 
+Updated Date: 2024-03-29T16:46:06Z
+Creation Date: 1999-11-12T13:38:49Z
+Registrar Registration Expiration Date: 2029-11-12T13:38:48Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email: email@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY  
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: MO
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: UY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: email@domain-contact.org
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY  
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: email@domain-contact.org
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY  
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: email@domain-contact.org
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY  
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Phone Ext: REDACTED FOR PRIVACY
+Billing Fax: REDACTED FOR PRIVACY
+Billing Fax Ext: REDACTED FOR PRIVACY
+Billing Email: email@domain-contact.org
+Name Server: dns1.despegar.net 
+Name Server: dns2.despegar.net 
+Name Server: dns3.despegar.net 
+Name Server: dns4.despegar.net 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-15T18:46:42Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.
+
+###############################################################################
+###############################################################################
+3 
+
+utoronto.ca
+Updated 22 hours ago
+Domain Information
+Domain:
+utoronto.ca
+Registrar:
+Rebel.ca Corp.
+Registered On:
+2000-09-28
+Expires On:
+2031-03-02
+Updated On:
+2022-01-06
+Status:
+clientTransferProhibited
+clientUpdateProhibited
+Name Servers:
+ns1.d-zone.ca
+ns2.d-zone.ca
+Registrant Contact
+Name:
+University Toronto
+Street:
+4 Bancroft Avenue, Room 102
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5S1C1
+Country:
+CA
+Phone:
++1.4169780470
+Email:
+email@utoronto.ca
+Administrative Contact
+Name:
+Abuse Contact
+Organization:
+University of Toronto
+Street:
+4 Bancroft Ave.
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5S1C1
+Country:
+CA
+Phone:
++1.4169780470
+Fax:
++1.4169786620
+Email:
+email@utoronto.ca
+Technical Contact
+Name:
+Russell Sutherland
+Organization:
+University of Toronto
+Street:
+4 Bancroft Ave.
+City:
+Toronto
+State:
+ON
+Postal Code:
+M5S1C1
+Country:
+CA
+Phone:
++1.4169780470
+Fax:
++1.4169786620
+Email:
+email@utoronto.ca
+Raw Whois Data
+Domain Name: utoronto.ca
+Registry Domain ID: D1782-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.rebel.ca
+Updated Date: 2022-01-06T18:00:37Z
+Creation Date: 2000-09-28T14:01:07Z
+Registry Expiry Date: 2031-03-02T05:00:00Z
+Registrar: Rebel.ca Corp.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 18785276-CIRA
+Registrant Name: University Toronto
+Registrant Organization:
+Registrant Street: 4 Bancroft Avenue,  Room 102
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M5S1C1
+Registrant Country: CA
+Registrant Phone: +1.4169780470
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@utoronto.ca
+Registry Admin ID: 2026370-CIRA
+Admin Name: Abuse Contact
+Admin Organization: University of Toronto
+Admin Street: 4 Bancroft Ave.
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M5S1C1
+Admin Country: CA
+Admin Phone: +1.4169780470
+Admin Phone Ext:
+Admin Fax: +1.4169786620
+Admin Fax Ext:
+Admin Email: email@utoronto.ca
+Registry Tech ID: C851155-CIRA
+Tech Name: Russell Sutherland
+Tech Organization: University of Toronto
+Tech Street: 4 Bancroft Ave.
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M5S1C1
+Tech Country: CA
+Tech Phone: +1.4169780470
+Tech Phone Ext:
+Tech Fax: +1.4169786620
+Tech Fax Ext:
+Tech Email: email@utoronto.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns1.d-zone.ca
+Name Server: ns2.d-zone.ca
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-01-14T20:16:04Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+
+
+###############################################################################
+###############################################################################
+4
+
+meta.com
+Updated 2 days ago
+Domain Information
+Domain:
+meta.com
+Registrar:
+RegistrarSafe, LLC
+Registered On:
+1991-01-21
+Expires On:
+2033-01-22
+Updated On:
+2024-01-24
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+a.ns.facebook.com
+b.ns.facebook.com
+c.ns.facebook.com
+d.ns.facebook.com
+Registrant Contact
+Name:
+Domain Admin
+Organization:
+Meta Platforms, Inc.
+Street:
+1601 Willow Rd
+City:
+Menlo Park
+State:
+CA
+Postal Code:
+94025
+Country:
+US
+Phone:
++1.6505434800
+Email:
+email@fb.com
+Administrative Contact
+Name:
+Domain Admin
+Organization:
+Meta Platforms, Inc.
+Street:
+1601 Willow Rd
+City:
+Menlo Park
+State:
+CA
+Postal Code:
+94025
+Country:
+US
+Phone:
++1.6505434800
+Email:
+email@fb.com
+Technical Contact
+Name:
+Domain Admin
+Organization:
+Meta Platforms, Inc.
+Street:
+1601 Willow Rd
+City:
+Menlo Park
+State:
+CA
+Postal Code:
+94025
+Country:
+US
+Phone:
++1.6505434800
+Email:
+email@fb.com
+Raw Whois Data
+Domain Name: META.COM
+Registry Domain ID: 1433704_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2024-01-24T20:05:49Z
+Creation Date: 1991-01-21T05:00:00Z
+Registrar Registration Expiration Date: 2033-01-22T05:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Meta Platforms, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Meta Platforms, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: email@fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Meta Platforms, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: email@fb.com
+Name Server: D.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: C.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-12T21:42:04Z <<<
+
+Search results obtained from the RegistrarSafe, LLC WHOIS database are
+provided by RegistrarSafe, LLC for information purposes only, to assist
+users in obtaining information concerning a domain name registration record.
+The information contained therein is provided on an "as is" and "as available"
+basis and RegistrarSafe, LLC does not guarantee the accuracy or completeness
+of any information provided through the WHOIS database.  By submitting a WHOIS query,
+you agree to the following: (1) that you will use any information provided through
+the WHOIS only for lawful purposes; (2) that you will comply with all ICANN rules
+and regulations governing use of the WHOIS; (3)  that you will not use any information
+provided through the WHOIS to  enable, or otherwise cause the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail (i.e., spam); or
+(4) that you will not use the WHOIS to enable or otherwise utilize high volume,
+automated, electronic processes that apply to or attach to RegistrarSafe, LLC or
+its systems. RegistrarSafe, LLC reserves the right to modify these terms
+at any time and to take any other appropriate actions, including but not limited to
+restricting any access that violates these terms and conditions. By submitting this
+query, you acknowledge and agree to abide by the foregoing terms, conditions and policies.
+
+For more information on Whois status codes, please visit
+    https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+################################################################################################
+################################################################################################
+5
+
+microsoft.com
+Updated 4 days ago
+Domain Information
+Domain:
+microsoft.com
+Registrar:
+MarkMonitor Inc.
+Registered On:
+1991-05-02
+Expires On:
+2025-05-03
+Updated On:
+2023-08-18
+Status:
+clientDeleteProhibited
+clientTransferProhibited
+clientUpdateProhibited
+serverDeleteProhibited
+serverTransferProhibited
+serverUpdateProhibited
+Name Servers:
+ns1-39.azure-dns.com
+ns2-39.azure-dns.net
+ns3-39.azure-dns.org
+ns4-39.azure-dns.info
+Registrant Contact
+Name:
+Domain Administrator
+Organization:
+Microsoft Corporation
+Street:
+One Microsoft Way,
+City:
+Redmond
+State:
+WA
+Postal Code:
+98052
+Country:
+US
+Phone:
++1.4258828080
+Fax:
++1.4259367329
+Email:
+email@domains.microsoft
+Administrative Contact
+Name:
+Domain Administrator
+Organization:
+Microsoft Corporation
+Street:
+One Microsoft Way,
+City:
+Redmond
+State:
+WA
+Postal Code:
+98052
+Country:
+US
+Phone:
++1.4258828080
+Fax:
++1.4259367329
+Email:
+email@domains.microsoft
+Technical Contact
+Name:
+MSN Hostmaster
+Organization:
+Microsoft Corporation
+Street:
+One Microsoft Way,
+City:
+Redmond
+State:
+WA
+Postal Code:
+98052
+Country:
+US
+Phone:
++1.4258828080
+Fax:
++1.4259367329
+Email:
+email@microsoft.com
+Raw Whois Data
+Domain Name: microsoft.com
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-08-18T16:15:54+0000
+Creation Date: 1991-05-02T04:00:00+0000
+Registrar Registration Expiration Date: 2025-05-03T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Microsoft Corporation
+Registrant Street: One Microsoft Way, 
+Registrant City: Redmond
+Registrant State/Province: WA
+Registrant Postal Code: 98052
+Registrant Country: US
+Registrant Phone: +1.4258828080
+Registrant Phone Ext: 
+Registrant Fax: +1.4259367329
+Registrant Fax Ext: 
+Registrant Email: email@domains.microsoft
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Microsoft Corporation
+Admin Street: One Microsoft Way, 
+Admin City: Redmond
+Admin State/Province: WA
+Admin Postal Code: 98052
+Admin Country: US
+Admin Phone: +1.4258828080
+Admin Phone Ext: 
+Admin Fax: +1.4259367329
+Admin Fax Ext: 
+Admin Email: email@domains.microsoft
+Registry Tech ID: 
+Tech Name: MSN Hostmaster
+Tech Organization: Microsoft Corporation
+Tech Street: One Microsoft Way, 
+Tech City: Redmond
+Tech State/Province: WA
+Tech Postal Code: 98052
+Tech Country: US
+Tech Phone: +1.4258828080
+Tech Phone Ext: 
+Tech Fax: +1.4259367329
+Tech Fax Ext: 
+Tech Email: email@microsoft.com
+Name Server: ns1-39.azure-dns.com
+Name Server: ns4-39.azure-dns.info
+Name Server: ns2-39.azure-dns.net
+Name Server: ns3-39.azure-dns.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-10T19:44:33+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220

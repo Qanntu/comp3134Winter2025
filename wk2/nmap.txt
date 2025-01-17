@@ -1,0 +1,62 @@
+1. 1000 TCP ports
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap --version
+Nmap version 7.80 ( https://nmap.org )
+Platform: x86_64-pc-linux-gnu
+Compiled with: liblua-5.3.6 openssl-3.0.2 nmap-libssh2-1.8.2 libz-1.2.11 libpcre-8.45 libpcap-1.10.1 nmap-libdnet-1.12 ipv6
+Compiled without:
+Available nsock engines: epoll poll select
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 21:34 UTC
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0024s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.94 seconds
+############################################################################
+
+2. 1 port
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 8000 google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 21:38 UTC
+Nmap scan report for google.com (172.217.165.14)
+Host is up (0.0029s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:802::200e
+rDNS record for 172.217.165.14: yyz12s06-in-f14.1e100.net
+
+PORT     STATE    SERVICE
+8000/tcp filtered http-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 0.26 seconds
+
+#############################################################################
+
+3. range ports
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1000-8000 georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 22:27 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0020s latency).
+rDNS record for 198.96.86.176: impact.georgebrown.ca
+All 7001 scanned ports on georgebrown.ca (198.96.86.176) are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 17.88 seconds
+
+
+4. 100 ports
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F georgebrown.ca
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-01-17 22:28 UTC
+Nmap scan report for georgebrown.ca (198.96.86.176)
+Host is up (0.0023s latency).
+rDNS record for 198.96.86.176: startgbc.com
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
