@@ -1,0 +1,20 @@
+17:36:47.465694 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 49548:50136, ack 37, win 501, length 588
+17:36:47.470572 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 50136, win 2047, length 0
+17:36:47.569397 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 50136:50564, ack 37, win 501, length 428
+17:36:47.620327 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 50564, win 2046, length 0
+17:36:47.673359 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 50564:50856, ack 37, win 501, length 292
+17:36:47.731051 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 50856, win 2045, length 0
+17:36:47.777351 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 50856:51148, ack 37, win 501, length 292
+17:36:47.824215 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 51148, win 2044, length 0
+17:36:47.881371 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 51148:51440, ack 37, win 501, length 292
+17:36:47.933122 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 51440, win 2047, length 0
+17:36:47.985375 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 51440:51732, ack 37, win 501, length 292
+17:36:48.042893 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 51732, win 2046, length 0
+17:36:48.089343 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 51732:52024, ack 37, win 501, length 292
+17:36:48.135632 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 52024, win 2045, length 0
+17:36:48.193445 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 52024:52316, ack 37, win 501, length 292
+17:36:48.244954 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 52316, win 2044, length 0
+^C
+330 packets captured
+333 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,24 @@
+
+; <<>> DiG 9.18.28-0ubuntu0.22.04.1-Ubuntu <<>> microsoft.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61421
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 65494
+;; QUESTION SECTION:
+;microsoft.com.			IN	A
+
+;; ANSWER SECTION:
+microsoft.com.		3175	IN	A	20.231.239.246
+microsoft.com.		3175	IN	A	20.70.246.20
+microsoft.com.		3175	IN	A	20.76.201.171
+microsoft.com.		3175	IN	A	20.236.44.162
+microsoft.com.		3175	IN	A	20.112.250.133
+
+;; Query time: 3 msec
+;; SERVER: 127.0.0.53#53(127.0.0.53) (UDP)
+;; WHEN: Wed Jan 22 19:11:40 UTC 2025
+;; MSG SIZE  rcvd: 122
+

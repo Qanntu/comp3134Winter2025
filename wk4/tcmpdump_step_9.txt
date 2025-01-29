@@ -1,0 +1,19 @@
+17:35:18.629601 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 19544, win 2044, length 0
+17:35:18.685426 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 19544:19836, ack 1, win 501, length 292
+17:35:18.739025 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 19836, win 2043, length 0
+17:35:18.789703 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 19836:20128, ack 1, win 501, length 292
+17:35:18.846368 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 20128, win 2047, length 0
+17:35:18.893296 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 20128:20420, ack 1, win 501, length 292
+17:35:18.940148 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 20420, win 2046, length 0
+17:35:18.997379 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 20420:20712, ack 1, win 501, length 292
+17:35:19.051774 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 20712, win 2045, length 0
+17:35:19.101379 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 20712:21004, ack 1, win 501, length 292
+17:35:19.161428 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 21004, win 2044, length 0
+17:35:19.205377 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 21004:21296, ack 1, win 501, length 292
+17:35:19.255313 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 21296, win 2043, length 0
+17:35:19.309361 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 21296:21588, ack 1, win 501, length 292
+17:35:19.363894 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 21588, win 2047, length 0
+^C
+131 packets captured
+134 packets received by filter
+0 packets dropped by kernel

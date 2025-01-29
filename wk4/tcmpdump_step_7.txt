@@ -1,0 +1,45 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet), snapshot length 262144
+17:31:21.013363 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 2689918892:2689918936, ack 702419671, win 501, length 44
+17:31:21.013447 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 44:96, ack 1, win 501, length 52
+17:31:21.013498 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 96:164, ack 1, win 501, length 68
+17:31:21.013594 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.84.204.40753: Flags [P.], seq 164:268, ack 1, win 501, length 104
+17:31:21.018087 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 44, win 2043, length 0
+17:31:21.018087 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 164, win 2043, length 0
+17:31:21.068712 IP 198.96.84.204.40753 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 268, win 2047, length 0
+17:31:23.416864 IP 45.148.10.196.47661 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.63225: Flags [S], seq 2890872213, win 65535, length 0
+17:31:23.793871 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [S], seq 1743223608, win 29200, options [mss 1436,sackOK,TS val 1628688590 ecr 0,nop,wscale 7], length 0
+17:31:23.794011 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [S.], seq 1927536358, ack 1743223609, win 65160, options [mss 1460,sackOK,TS val 459674272 ecr 1628688590,nop,wscale 7], length 0
+17:31:24.015433 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1, win 229, options [nop,nop,TS val 1628688645 ecr 459674272], length 0
+17:31:24.015433 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1:23, ack 1, win 229, options [nop,nop,TS val 1628688645 ecr 459674272], length 22: SSH: SSH-2.0-libssh_0.9.6
+17:31:24.015562 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 23, win 509, options [nop,nop,TS val 459674494 ecr 1628688645], length 0
+17:31:24.032608 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [P.], seq 1:43, ack 23, win 509, options [nop,nop,TS val 459674511 ecr 1628688645], length 42: SSH: SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.10
+17:31:24.253343 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 43, win 229, options [nop,nop,TS val 1628688705 ecr 459674511], length 0
+17:31:24.253344 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 23:999, ack 43, win 229, options [nop,nop,TS val 1628688705 ecr 459674511], length 976
+17:31:24.253423 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [P.], seq 43:1155, ack 23, win 509, options [nop,nop,TS val 459674732 ecr 1628688705], length 1112
+17:31:24.297098 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 999, win 502, options [nop,nop,TS val 459674776 ecr 1628688705], length 0
+17:31:24.511454 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1155, win 251, options [nop,nop,TS val 1628688770 ecr 459674732], length 0
+17:31:24.517843 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 999:1047, ack 1155, win 251, options [nop,nop,TS val 1628688771 ecr 459674776], length 48
+17:31:24.517913 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 1047, win 502, options [nop,nop,TS val 459674996 ecr 1628688771], length 0
+17:31:24.526364 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [P.], seq 1155:1687, ack 1047, win 502, options [nop,nop,TS val 459675005 ecr 1628688771], length 532
+17:31:24.746898 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1687, win 269, options [nop,nop,TS val 1628688828 ecr 459675005], length 0
+17:31:24.746974 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1047:1063, ack 1687, win 269, options [nop,nop,TS val 1628688828 ecr 459675005], length 16
+17:31:24.789103 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 1063, win 502, options [nop,nop,TS val 459675268 ecr 1628688828], length 0
+17:31:24.929262 IP ec2-18-180-157-38.ap-northeast-1.compute.amazonaws.com > lamp-ubuntu-s-1vcpu-1gb-tor1-01: ICMP echo request, id 9, seq 6816, length 48
+17:31:24.929333 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01 > ec2-18-180-157-38.ap-northeast-1.compute.amazonaws.com: ICMP echo reply, id 9, seq 6816, length 48
+17:31:25.009740 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1063:1115, ack 1687, win 269, options [nop,nop,TS val 1628688894 ecr 459675268], length 52
+17:31:25.010327 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 1115, win 502, options [nop,nop,TS val 459675488 ecr 1628688894], length 0
+17:31:25.010526 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [P.], seq 1687:1739, ack 1115, win 502, options [nop,nop,TS val 459675489 ecr 1628688894], length 52
+17:31:25.231614 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1115:1215, ack 1739, win 269, options [nop,nop,TS val 1628688949 ecr 459675489], length 100
+17:31:25.267474 IP 103.102.230.6.54441 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.8728: Flags [S], seq 3475743551, win 65535, length 0
+17:31:25.273105 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 1215, win 502, options [nop,nop,TS val 459675752 ecr 1628688949], length 0
+17:31:25.995059 IP ec2-3-98-37-117.ca-central-1.compute.amazonaws.com > lamp-ubuntu-s-1vcpu-1gb-tor1-01: ICMP echo request, id 1, seq 17673, length 48
+17:31:25.995134 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01 > ec2-3-98-37-117.ca-central-1.compute.amazonaws.com: ICMP echo reply, id 1, seq 17673, length 48
+17:31:27.676227 IP 167.94.145.24.65446 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.30005: Flags [S], seq 3587553255, win 42340, options [mss 1460,sackOK,TS val 1737690331 ecr 0,nop,wscale 10], length 0
+17:31:28.326413 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [P.], seq 1739:1791, ack 1215, win 502, options [nop,nop,TS val 459678805 ecr 1628688949], length 52
+17:31:28.547067 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 1215:1267, ack 1791, win 269, options [nop,nop,TS val 1628689778 ecr 459678805], length 52
+17:31:28.547068 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [F.], seq 1267, ack 1791, win 269, options [nop,nop,TS val 1628689778 ecr 459678805], length 0
+17:31:28.547142 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [.], ack 1267, win 502, options [nop,nop,TS val 459679026 ecr 1628689778], length 0
+17:31:28.550444 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 45-64-3-61.idcloudhosting.my.id.39832: Flags [F.], seq 1791, ack 1268, win 502, options [nop,nop,TS val 459679029 ecr 1628689778], length 0
+17:31:28.771006 IP 45-64-3-61.idcloudhosting.my.id.39832 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1792, win 269, options [nop,nop,TS val 1628689834 ecr 459679029], length 0
+17:31:31.397166 IP scan-40h.shadowserver.org.59361 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.iso-tsap: Flags [S], seq 100100130, win 65535, length 0
