@@ -1,0 +1,6 @@
+Rstart the sshd service
+sudo service ssh restart
+
+
+Conexion with new port
+ssh -p 2222 root@my-ip

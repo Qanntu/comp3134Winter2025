@@ -1,22 +1,50 @@
-root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 src host 142.250
-.190.14
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 dst 159.89.116.68
 tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
 listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+19:27:29.080357 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 696423519, win 251, length 0
+19:27:29.080358 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 225, win 255, length 0
+19:27:29.126296 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 261, win 255, length 0
+19:27:29.192045 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.44982: 34306 NXDomain 0/1/1 (122)
+19:27:29.212286 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.44982: 34306 NXDomain 0/1/0 (111)
+19:27:29.214756 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.51377: 52459 NXDomain 0/1/1 (120)
+19:27:29.214756 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.36530: 54076 NXDomain 0/1/1 (120)
+19:27:29.216051 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.51377: 52459 NXDomain 0/1/0 (109)
+19:27:29.216433 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.36530: 54076 NXDomain 0/1/0 (109)
+19:27:32.287678 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [S.], seq 1087386058, ack 837158541, win 65160, options [mss 1460,sackOK,TS val 1619016687 ecr 2478112390,nop,wscale 9], length 0
+19:27:32.288834 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [.], ack 47, win 128, options [nop,nop,TS val 1619016689 ecr 2478112392], length 0
+19:27:32.291050 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [P.], seq 1:112, ack 47, win 128, options [nop,nop,TS val 1619016691 ecr 2478112392], length 111 46215 NXDomain 0/1/0 (109)
+19:27:32.308925 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [P.], seq 112:223, ack 91, win 128, options [nop,nop,TS val 1619016709 ecr 2478112397], length 111 4018 NXDomain 0/1/0 (109)
+19:27:32.309082 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.59484: 57617 NXDomain 0/1/1 (120)
+19:27:32.309400 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.47202: 59585 NXDomain 0/1/1 (120)
+19:27:32.310719 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.59484: 57617 NXDomain 0/1/0 (109)
+19:27:32.310719 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.47202: 59585 NXDomain 0/1/0 (109)
+19:27:32.324000 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1907, win 255, length 0
+19:27:32.374985 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 1933, win 255, length 0
+19:27:32.452237 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 2849, win 252, length 0
+19:27:32.577477 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3005, win 251, length 0
+19:27:32.669851 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3161, win 255, length 0
+19:27:32.763703 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3317, win 255, length 0
+19:27:32.875095 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3473, win 254, length 0
+19:27:32.964754 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3629, win 254, length 0
+19:27:33.078130 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3785, win 253, length 0
+19:27:33.168958 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 3941, win 252, length 0
+19:27:33.289827 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4097, win 252, length 0
+19:27:33.405370 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4253, win 251, length 0
+19:27:33.526848 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4409, win 251, length 0
+19:27:33.592512 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4565, win 255, length 0
+19:27:33.701540 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4721, win 255, length 0
+19:27:33.812673 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 4877, win 254, length 0
+19:27:33.907099 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5033, win 254, length 0
+19:27:34.013718 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5189, win 253, length 0
+19:27:34.107236 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5345, win 252, length 0
+19:27:34.221149 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5501, win 252, length 0
+19:27:34.311170 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [F.], seq 223, ack 91, win 128, options [nop,nop,TS val 1619018711 ecr 2478112454], length 0
+19:27:34.312326 IP 67.207.67.3.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42192: Flags [.], ack 92, win 128, options [nop,nop,TS val 1619018712 ecr 2478114416], length 0
+19:27:34.326997 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 5657, win 251, length 0
+19:27:34.438077 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 6157, win 255, length 0
+19:27:34.528122 IP 198.96.84.204.51288 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 6313, win 255, length 0
 ^C
-0 packets captured
-0 packets received by filter
+42 packets captured
+44 packets received by filter
 0 packets dropped by kernel
-root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# sudo tcpdump -i eth0 src host 14
-2.250.190.46
-tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
-listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
-^C
-0 packets captured
-0 packets received by filter
-0 packets dropped by kernel
-root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 dst 50.116.66.13
-9
-tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
-listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
-^C
-0 packets captured
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 159.89.116.68
