@@ -1,0 +1,8 @@
+*What you see on the browser (the issue)
+
+It faild to open teh directory in /var/www/html/directory_traversal_part1.php
+
+
+*What sensitive information is given by this page
+
+It shows the absolute path on the server, so it can be used for an attacker.

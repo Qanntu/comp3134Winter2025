@@ -1,0 +1,3 @@
+* For the first security issue I used basename($dir) to remove any extra information. So, the information about files and folder can't be accessed by any one.
+
+*About the second issue, it will check if the folder exists before trying to open it.

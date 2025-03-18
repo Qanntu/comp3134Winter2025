@@ -1,0 +1,9 @@
+*What you see on the browser (the issue)
+
+I tried to open file hello, but doesn't exist in my server 
+
+
+
+*What sensitive information is given by this page
+
+The page is giving the real location of my php file

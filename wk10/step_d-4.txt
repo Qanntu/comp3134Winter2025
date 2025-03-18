@@ -1,0 +1,9 @@
+*What you see on the browser (the issue)
+
+I can see the structure and contents of my server directory 
+
+
+
+*What sensitive information is given by this page
+
+It shows the directories names

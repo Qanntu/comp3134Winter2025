@@ -1,0 +1,3 @@
+comments_in_source_code_part2.php: the HTML comments were replaced with PHP comments. 
+
+With this PHP comments won’t appear in the page source, so users can't see them. This helps keep information private and prevents it from being exposed

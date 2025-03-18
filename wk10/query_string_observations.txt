@@ -1,0 +1,12 @@
+1) I typed security word in the form and submitted it
+   - The page processed it correctly and showed results related to the word 
+
+2) I typed a word that is not an English word in the URL  
+   - the word was displayed on the screen without any validation 
+
+3) I typed `<script>alert('hello')</script>` in the form and submitted it
+    - The page executed the script, displaying an alert box with hello. This confirms that the page is vulnerable to XSS 	because it does not sanitize user input. 
+
+4) I added `<script>alert('hello')</script>` in the URL
+   - The page executed the script and displayed an alert box saying hello
+   - so,  is vulnerable to XSS because it does not sanitize user input
