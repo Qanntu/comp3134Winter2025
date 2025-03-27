@@ -1,0 +1,5 @@
+storexss.php reads and displays the contents of storedxss.txt without any sanitization
+This allows any malicious JavaScript code to execute in the browser, leading to a stored XSS vulnerability
+A hacker could store a script that steals cookies, redirects users, and make changes in the website
+
+

@@ -1,0 +1,26 @@
+Domain: https://google.com
+Cookie Name: S
+Cookie Value: billing-ui-v3=q2z4DEXaBMl9RXPAEz5PzY8QShW0Fvn0:billing-ui-v3-efe=q2z4DEXaBMl9RXPAEz5PzY8QShW0Fvn0
+Cookie Path: /
+
+Domain: https://es.wikipedia.org
+Cookie Name: eswikimwuser-sessionId
+Cookie Value: 83a73246a4154b0a281c
+Cookie Path: /
+
+Domain: https://microsoft.com
+Cookie Name: at_check
+Cookie Value: true
+Cookie Path: /
+
+Domain: https://open.spotify.com/
+Cookie Name: sss
+Cookie Value: 1
+Cookie Path: /
+
+Domain: https://linkedin.com
+Cookie Name: lang
+Cookie Value: v=2&lang=en-us
+Cookie Path: /
+
+

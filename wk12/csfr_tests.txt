@@ -1,0 +1,9 @@
+Test Summary: CSRF Prevention
+
+A CSRF token is included as a hidden field in the form and compared to a server-side session variable.
+
+With csfr_form.php, the session generates a token that is sent along with the form. The server processes the request because the token is a session variable.
+
+Attempting to send the same request from the csfr.html page, which does not have a token, results in a failed request. The token value is incorrect, causing the server to reject the request.
+
+This method effectively prevents forged requests, as an attacker cannot predict or replicate the CSRF token because it is randomly created for each session.
