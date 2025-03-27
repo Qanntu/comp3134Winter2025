@@ -1,5 +1,0 @@
-Domain: youtube.com
-
-Comment #1: This guy changed the life of so many beginners. We love you professor Malan!
-
-Comment #2: If you haven't taken his free CS50 course yet and want to learn computer science, I HIGHLY recommend it. His lectures are almost two hours long but he is so energetic and explains everything so well it goes by really fast. I've used his courses as supplements to my students when I taught high school as well. Glad he's getting the recognition he deserves!
